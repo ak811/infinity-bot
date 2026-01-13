@@ -33,7 +33,7 @@ bot.setup_hook = _setup_hook
 @bot.check
 async def restrict_to_english_cafe(ctx):
     if ctx.guild and ctx.guild.id != BOT_GUILD_ID:
-        await ctx.send("This bot is exclusive to **English Café Server** 🎉\nJoin us to use the commands: 🔗 https://discord.gg/BqvjRT6W")
+        await ctx.send("This bot is exclusive to **Infinity Café Server** 🎉\nJoin us to use the commands: 🔗 https://discord.gg/BqvjRT6W")
         return False
     return True
 
