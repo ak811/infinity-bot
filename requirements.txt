@@ -1,0 +1,10 @@
+discord.py==2.3.2
+openai==1.86.0
+httpx>=0.27.0
+python-dotenv
+PyPDF2>=3.0.0
+python-docx
+python-pptx
+openpyxl
+pytz
+psutil

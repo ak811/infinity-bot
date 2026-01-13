@@ -1,0 +1,2 @@
+cd /data/akhalegh/utils/infinity
+python -m pycord.bot
